@@ -1,4 +1,4 @@
-Client-Server-python-example
+Παράδειγμα Client/Server
 ======================
 
-Ένα απλό παράδειγμα Server με Sockets γραµµένο σε Python.
+Ένα απλό παράδειγμα Server & Client με Sockets γραµµένο σε Python. Τα scripts `server.py` και `client.py`  είναι συμβατά με την έκδοση 2.x της Python και μπορεί να χρειαστεί να τροποποιηθούν για να λειτουργήσουν στην έκδοση 3.x της Python.
